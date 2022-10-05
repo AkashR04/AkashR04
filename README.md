@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Python, Java, C**
 
-- 📫 How to reach me **akashr424@protonmail.com**
+- 📫 How to reach me ...
 
 - 📄 Know about my experiences [https://github.com/AkashR04/AkashR04/blob/main/Akash%20R%20-%20Resume.pdf](https://github.com/AkashR04/AkashR04/blob/main/Akash%20R%20-%20Resume.pdf)
 
