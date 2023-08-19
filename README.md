@@ -9,8 +9,7 @@
 
 - 📫 How to reach me ...
 
-- 📄 Know about my experiences [https://github.com/AkashR04/AkashR04/blob/main/Akash%20R%20-%20Resume.pdf](https://github.com/AkashR04/AkashR04/blob/main/Akash%20R%20-%20Resume.pdf)
-
+- 📄 Know about my experiences [[Resume](https://github.com/AkashR04/AkashR04/blob/main/Akash%20R%20Latest%20Resume.pdf)]
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/akashr20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akashr20" height="30" width="40" /></a>
